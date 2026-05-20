@@ -1,20 +1,33 @@
-<<<<<<< HEAD
-# React + Vite
+# 🏏 IPL AI Agent
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An AI-powered IPL assistant built using React + Gemini API during the Agentic Premier League AI Vibe Coding Challenge by GDG Patna.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- 🎙️ Live IPL Commentary
+- 🔮 Match Prediction
+- 📊 Player Analysis
+- 🧠 Strategy Advisor
+- ⚡ Gemini 2.5 Flash Powered
+- 📱 Fully Responsive UI
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- Vite
+- Gemini API
+- CSS3
+- Vercel Deployment
 
-## Expanding the ESLint configuration
+## 🌐 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# ipl-gemini-ai
->>>>>>> 0d48c699adf4422405dabe30ac0e92ecd796220c
+https://ipl-gemini-ai.vercel.app/
+
+## 👨‍💻 Built By
+
+Sunny  
+GDG Patna Core Team
+
+---
+
+Powered by Gemini 2.5 Flash 🚀
