@@ -239,7 +239,7 @@ ${input}
         </div>
 
         <div className="footer">
-          🏏 Built by Sunny • GDG Patna Core Team • Gemini AI Powered
+          🏏 Built by Sunny • GDG Patna Core Team • Powered by Gemini 2.5 Flash
         </div>
 
       </div>
