@@ -1,4 +1,4 @@
-# 🏏 IPL AI Agent
+# 🏏 APL AI Agent-26 Vibe Coding Challenge by Google Cloud * GDG-Patna
 
 An AI-powered IPL assistant built using React + Gemini API during the Agentic Premier League AI Vibe Coding Challenge by GDG Patna.
 
